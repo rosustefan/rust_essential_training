@@ -1,2 +1,2 @@
-# rust_essential_training
-Exercises and challenges related to the "Rust Essential Training" course by Barron Stone on LinkedIn Learning.
+# Rust Essential Training
+Exercises and challenges related to the ["Rust Essential Training"](https://www.linkedin.com/learning/rust-essential-training/) course by Barron Stone on LinkedIn Learning.
