@@ -1,0 +1,1 @@
+/home/rojo/bin/rust_essential_training/chapter_08_modules/challenge_higher_or_lower_instructor_solution/target/debug/challenge_higher_or_lower_instructor_solution: /home/rojo/bin/rust_essential_training/chapter_08_modules/challenge_higher_or_lower_instructor_solution/src/main.rs
