@@ -1,0 +1,1 @@
+/home/rojo/bin/rust_essential_training/chapter_09_input_and_output/reading_from_files/target/debug/reading_from_files: /home/rojo/bin/rust_essential_training/chapter_09_input_and_output/reading_from_files/src/main.rs
