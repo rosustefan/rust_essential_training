@@ -12,7 +12,7 @@ fn main() {
 
     let input_file_contents = fs::read_to_string(input_file.clone()).unwrap();
     for line in input_file_contents.lines() {
-        if astronaut_name == line {
+        if astronaut_name.clone().to_lowercase() == line.to_lowercase() {
             println!(
                 "Found the astronaut {} in the {} file!",
                 astronaut_name, input_file
