@@ -1,0 +1,5 @@
+/home/rojo/bin/rust_essential_training/chapter_09_input_and_output/challenge_check_the_roster_instructor/target/debug/deps/challenge_check_the_roster_instructor-2e7a145cd682137c: src/main.rs
+
+/home/rojo/bin/rust_essential_training/chapter_09_input_and_output/challenge_check_the_roster_instructor/target/debug/deps/challenge_check_the_roster_instructor-2e7a145cd682137c.d: src/main.rs
+
+src/main.rs:
