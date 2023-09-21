@@ -12,7 +12,6 @@ fn main() {
 
     let input_file_contents = fs::read_to_string(input_file.clone()).unwrap();
     for line in input_file_contents.lines() {
-        // println!("{}", astronaut);
         if astronaut_name == line {
             println!(
                 "Found the astronaut {} in the {} file!",
