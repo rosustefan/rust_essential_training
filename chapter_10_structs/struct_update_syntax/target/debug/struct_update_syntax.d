@@ -1,0 +1,1 @@
+/home/rojo/bin/rust_essential_training/chapter_10_structs/struct_update_syntax/target/debug/struct_update_syntax: /home/rojo/bin/rust_essential_training/chapter_10_structs/struct_update_syntax/src/main.rs

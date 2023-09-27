@@ -1,0 +1,1 @@
+/home/rojo/bin/rust_essential_training/chapter_10_structs/associated_functions/target/debug/associated_functions: /home/rojo/bin/rust_essential_training/chapter_10_structs/associated_functions/src/main.rs
