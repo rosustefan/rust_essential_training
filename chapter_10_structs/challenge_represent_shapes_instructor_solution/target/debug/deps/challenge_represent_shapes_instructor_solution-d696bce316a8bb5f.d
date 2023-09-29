@@ -1,0 +1,5 @@
+/home/rojo/bin/rust_essential_training/chapter_10_structs/challenge_represent_shapes_instructor_solution/target/debug/deps/challenge_represent_shapes_instructor_solution-d696bce316a8bb5f: src/main.rs
+
+/home/rojo/bin/rust_essential_training/chapter_10_structs/challenge_represent_shapes_instructor_solution/target/debug/deps/challenge_represent_shapes_instructor_solution-d696bce316a8bb5f.d: src/main.rs
+
+src/main.rs:
