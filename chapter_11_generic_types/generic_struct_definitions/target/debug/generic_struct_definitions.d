@@ -1,0 +1,1 @@
+/home/rojo/bin/rust_essential_training/chapter_11_generic_types/generic_struct_definitions/target/debug/generic_struct_definitions: /home/rojo/bin/rust_essential_training/chapter_11_generic_types/generic_struct_definitions/src/main.rs
