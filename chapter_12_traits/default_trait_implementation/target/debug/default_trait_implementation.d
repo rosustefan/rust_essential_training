@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/default_trait_implementation/target/debug/default_trait_implementation: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/default_trait_implementation/src/main.rs

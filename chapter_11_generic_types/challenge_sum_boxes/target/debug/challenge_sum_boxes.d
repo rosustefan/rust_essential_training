@@ -1,1 +1,1 @@
-/home/rojo/bin/rust_essential_training/chapter_11_generic_types/challenge_sum_boxes/target/debug/challenge_sum_boxes: /home/rojo/bin/rust_essential_training/chapter_11_generic_types/challenge_sum_boxes/src/main.rs
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_11_generic_types/challenge_sum_boxes/target/debug/challenge_sum_boxes: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_11_generic_types/challenge_sum_boxes/src/main.rs

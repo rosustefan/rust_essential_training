@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/derive_traits/target/debug/derive_traits: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/derive_traits/src/main.rs

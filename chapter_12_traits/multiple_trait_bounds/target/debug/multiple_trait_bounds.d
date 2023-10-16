@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/multiple_trait_bounds/target/debug/multiple_trait_bounds: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/multiple_trait_bounds/src/main.rs
