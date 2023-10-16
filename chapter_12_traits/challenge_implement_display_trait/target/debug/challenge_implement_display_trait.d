@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/challenge_implement_display_trait/target/debug/challenge_implement_display_trait: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_12_traits/challenge_implement_display_trait/src/main.rs
