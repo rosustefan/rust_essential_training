@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/lifetime_elision_rules/target/debug/lifetime_elision_rules: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/lifetime_elision_rules/src/main.rs

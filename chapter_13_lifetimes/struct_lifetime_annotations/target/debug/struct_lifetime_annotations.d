@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/struct_lifetime_annotations/target/debug/struct_lifetime_annotations: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/struct_lifetime_annotations/src/main.rs

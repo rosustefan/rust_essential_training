@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/the_borrow_checker/target/debug/the_borrow_checker: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_13_lifetimes/the_borrow_checker/src/main.rs
