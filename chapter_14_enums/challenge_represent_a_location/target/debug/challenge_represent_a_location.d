@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_14_enums/challenge_represent_a_location/target/debug/challenge_represent_a_location: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_14_enums/challenge_represent_a_location/src/main.rs

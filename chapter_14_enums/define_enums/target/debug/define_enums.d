@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_14_enums/define_enums/target/debug/define_enums: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_14_enums/define_enums/src/main.rs
