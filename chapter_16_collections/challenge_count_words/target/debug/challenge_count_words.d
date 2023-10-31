@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_16_collections/challenge_count_words/target/debug/challenge_count_words: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_16_collections/challenge_count_words/src/main.rs
