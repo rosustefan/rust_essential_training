@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/matching_result_T_E_to_recover_from_errors/target/debug/matching_result_T_E_to_recover_from_errors: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/matching_result_T_E_to_recover_from_errors/src/main.rs

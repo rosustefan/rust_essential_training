@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/unrecovarable_errors/target/debug/unrecovarable_errors: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/unrecovarable_errors/src/main.rs

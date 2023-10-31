@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/propagating_errors/target/debug/propagating_errors: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/propagating_errors/src/main.rs

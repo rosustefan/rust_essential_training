@@ -1,0 +1,1 @@
+/home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/challenge_handle_errors/target/debug/challenge_handle_errors: /home/ubuntu/bin/rust-scripts/rust_essential_training/chapter_15_error_handling/challenge_handle_errors/src/main.rs
